@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## Junquan Jamie Chen
 
-You can use the [editor on GitHub](https://github.com/junquan98/junquan98.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Intro
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Master’s in Computer Science student at UCLA experienced in web & back-end development, building data pipelines and
+data warehouse architecture. Passionate about writing clean, efficient code using Java, Go, PHP, C#.
 
 ```markdown
 Syntax highlighted code block
